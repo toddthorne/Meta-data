@@ -1,0 +1,18 @@
+{
+  "info": {
+    "url_png_logo": "https://raw.githubusercontent.com/toddthorne/stakepool-metadata/main/logo.png",
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/toddthorne/stakepool-metadata/main/icon64x64.png",
+    "location": "Baton Rouge, Louisiana",
+    "social": {
+      "twitter_handle": "ADA FORGE SPO"
+    },
+    "company": {
+      "name": "ADA-FORGE LLC"
+    },
+    "about": {
+      "me": "My name is M. Thorne. I am a Single Pool Operator, reinforcing decentralization and trying to give back to the community. 100% of our margin fees are donated to Alzheimer’s research.",
+      "server": "1x Core Node, 2x Relay Nodes, 1x Monitoring Server. Located in different continents."
+    }
+  }
+}
+
