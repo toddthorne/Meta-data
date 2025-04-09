@@ -1,0 +1,7 @@
+{
+  "name": "ADA-FORGE",
+  "description": "Forging decentralization with fire and purpose. 100% of ADA-FORGE’s margin fees are donated to Alzheimer's research.",
+  "ticker": "FORGE",
+  "homepage": "https://github.com/toddthorne/stakepool-metadata",
+  "extended": "https://raw.githubusercontent.com/toddthorne/stakepool-metadata/main/extendedMetadata.json"
+}
