@@ -1,7 +1,7 @@
 {
-  "name": "Ada-Forge",
-  "ticker": "Forge",
-  "description": "Forging Valuable ADA for you, me and everybody 1 Epoch at a time",
-  "homepage": "www.ada-forge.com",
-  "verification": "887e0181f00d18b8db"
+  "name": "ADA-FORGE",
+  "description": "Forging decentralization with fire and purpose. 100% of ADA-FORGE’s margin fees are donated to Alzheimer's research.",
+  "ticker": "FORGE",
+  "homepage": "https://github.com/toddthorne/Meta-data",
+  "extended": "https://raw.githubusercontent.com/toddthorne/Meta-data/main/extendedMetadata.json"
 }
